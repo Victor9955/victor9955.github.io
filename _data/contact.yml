@@ -1,7 +1,7 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+#- type: github
+#  icon: "fab fa-github"
 
 # - type: twitter
 #  icon: "fa-brands fa-x-twitter"
@@ -10,13 +10,16 @@
   icon: "fa-brands fa-itch-io"
   url: "https://victor9955.itch.io/"
 
+- type: linkedin
+  icon: "fa-brands fa-linkedin"
+  url: "https://fr.linkedin.com/in/victor-lacombe-programer"
+
 - type: portfolio
-  icon: "fa-solid fa-file"
+  icon: "fa-solid fa-laptop"
   url: "https://victorlacombe.pb.online/"
 
 - type: email
   icon: "fas fa-envelope"
-  url: "mailto:v.lacombe.student@gmail.com"
   noblank: true # open link in current tab
 
 #- type: rss
