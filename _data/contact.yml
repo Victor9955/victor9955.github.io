@@ -16,6 +16,7 @@
 
 - type: email
   icon: "fas fa-envelope"
+  url: "mailto:v.lacombe.student@gmail.com"
   noblank: true # open link in current tab
 
 #- type: rss
